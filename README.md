@@ -1,6 +1,19 @@
+[![tested with webdriver.io](https://img.shields.io/badge/tested%20with-webdriver.io-%23ea5906)](https://webdriver.io/)
+
 <br clear="both">
 
 <h2 align="center">Hi 👋, I'm Hardik Chotaliya,<br><br>Experienced [QA] SDET from India with over 10+ years of experience in delivering top-quality Automation solutions.</h2>
+
+<p>
+<div align="center" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/hardikchotaliya?style=social">
+  <img src="https://img.shields.io/github/followers/hardikchotaliya?style=social">
+  <a href="https://www.youtube.com/@fullstackqaautomation9261" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCzbDPPgiMXI2qbHh4odI-eg?style=social">	
+  </a>
+</div>
+</p>
+
 
 ###
 
@@ -55,6 +68,8 @@
 - 🖥 QA SDET with Bold ideas
 - 🧔 10+ Years of Experience
 - 🤹🏼 Skilled with WebDriverIO + TypeScript/JavaScript + Cucumber
+- I regularly write articles on https://hardikchotaliya.hashnode.dev/ <p align="left"> <a href="https://twitter.com/hardikchotaliya" target="blank"><img src="https://img.shields.io/twitter/follow/hardikchotaliya?logo=twitter&style=for-the-badge" alt="hardikchotaliya" /></a> </p>
+- Know about my experiences https://hardikchotaliya.github.io/ 
 
 ---
 
@@ -68,7 +83,7 @@
 - 🎯 In the near future, I plan to work on the Playwright tool
 - 🌱 I’m currently learning Gatling/Locus for Performance testing
 - 👯 I’m looking to collaborate on a Freelancing Project, Blog writing, YouTube channel, and a LinkedIn post.
-- 💬 Ask me about Automation WebDriverIO
+- 💬 Ask me about WebDriverIO, Automation Framework
 
 ---
 
@@ -142,12 +157,16 @@
 ###
 ---
 
-# 🔔 My Latest GitHub Metrics
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="35"> My Latest GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikchotaliya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hardikchotaliya&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikchotaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hardikchotaliya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="200">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikchotaliya&theme=radical&hide_border=true" height="200">		  
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=hardikchotaliya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=hardikchotaliya&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikchotaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph"  /> -->
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchotaliya&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 ###
