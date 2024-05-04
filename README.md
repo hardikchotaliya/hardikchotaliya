@@ -68,7 +68,7 @@
 - 🖥 QA SDET with Bold ideas
 - 🧔 10+ Years of Experience
 - 🤹🏼 Skilled with WebDriverIO + TypeScript/JavaScript + Cucumber
-- I regularly write articles on https://hardikchotaliya.hashnode.dev/ <p align="left"> <a href="https://twitter.com/hardikchotaliya" target="blank"><img src="https://img.shields.io/twitter/follow/hardikchotaliya?logo=twitter&style=for-the-badge" alt="hardikchotaliya" /></a> </p>
+- I regularly write articles on https://hardikchotaliya.hashnode.dev/
 - Know about my experiences https://hardikchotaliya.github.io/ 
 
 ---
