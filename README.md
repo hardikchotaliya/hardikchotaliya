@@ -77,7 +77,7 @@
 # ⬆ What I'm up to
 - 🔨 I’m currently...
 ```yaml
-- Developing Automation Framework, the cross-platform, all-in-one, using WebDriverIO tool!
+- Developing Automation Framework, the cross-platform, all-in-one, using WebDriverIO V9 tool!
 ```
 
 - 🎯 In the near future, I plan to work on the Playwright tool
